@@ -1,0 +1,9 @@
+asgiref==3.4.1
+attrs==21.2.0
+Django==3.2.4
+djangorestframework==3.12.4
+jsonschema==3.2.0
+pyrsistent==0.18.0
+pytz==2021.1
+six==1.16.0
+sqlparse==0.4.2

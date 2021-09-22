@@ -1,0 +1,23 @@
+[
+    {
+      "model": "appointment.Appointment",
+      "fields": {
+        "appointment_date": "2021-09-23",
+        "info": "Meeting with client 1"
+      }
+    },
+    {
+        "model": "appointment.Appointment",
+        "fields": {
+          "appointment_date": "2021-09-24",
+          "info": "Meeting with client 2"
+        }
+    },
+    {
+        "model": "appointment.Appointment",
+        "fields": {
+          "appointment_date": "2021-09-25",
+          "info": "Meeting with client 3"
+        }
+    }
+  ]
