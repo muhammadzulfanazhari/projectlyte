@@ -18,5 +18,4 @@
     ```shellscript
         python manage.py runserver
     ```
-7. To test APIs, I use Postman.
-Lyte.postman_collection.json
+7. To test APIs, I use Postman and this is the list of endpoint Lyte.postman_collection.json
